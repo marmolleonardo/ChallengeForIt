@@ -11,6 +11,8 @@ Una aplicación de gestión de tareas construida con Next.js para el frontend y 
 - Eliminar tareas
 - Interfaz de usuario moderna y responsiva
 
+![Vista previa de la aplicación](docs/images/app-preview.png)
+
 ## Tecnologías utilizadas
 
 ### Frontend
